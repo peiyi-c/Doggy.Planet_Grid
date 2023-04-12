@@ -1,3 +1,3 @@
 # doggy-planet
 ### Introduction
-A responsive website for grid layout with a dog adoption theme.
+A responsive website with grid layout in a dog adoption theme.
